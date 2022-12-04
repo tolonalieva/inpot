@@ -1,0 +1,56 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fff;
+    color: #000;
+    font-size: 14px;
+    line-height: 1.3;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.text{
+    font-size: 24px;
+    color: red;
+}
+.inpot-card{
+    padding: 10px 20px;
+    font-size: 20px;
+    transition: 2s;
+    margin-bottom: 20px;
+}
+.inpot-card:hover{
+    color: rgb(0, 8, 255);
+    transition: 2s;
+}
+.block{
+    padding: 15px 20px;
+    font-size: 22px;
+    transition: 3s;
+    margin-bottom: 20px;
+}
+.block:hover{
+    color: blue;
+    transition: 3s;
+}
+.inpot-1{
+    padding: 10px 20px;
+    font-size: 22px;
+    margin-bottom: 25px;
+}
+button{
+    font-size: 25px;
+}
+input{
+    width: 19px;
+    height: 18px;
+    font-size: 30px;
+}
